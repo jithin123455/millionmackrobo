@@ -145,11 +145,11 @@ def start(bot: Bot, update: Update, args: List[str]):
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="𝙷𝙴𝙻𝙿",
                                                                        callback_data="help_back".format(bot.username)),
                                                                                    InlineKeyboardButton(text="𝙲𝙷𝙰𝙽𝙽𝙴𝙻",
-                                                                       url="t.me/M_STER_TECH")],
-                                                                                   [InlineKeyboardButton(text= "𝙳𝙴𝙿𝙻𝙾𝚈",
-                                                                       url="https://youtu.be/Bz8AUvN5bSo"),
-                                                                                   InlineKeyboardButton(text="𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴",
-                                                                       url="https://github.com/PANDITHAN/Evil-Inside")
+                                                                       url="https://t.me/x_skull_network")],
+                                                                                   [InlineKeyboardButton(text= "DEVOLOPER",
+                                                                       url="https://t.me/KIBERJIN"),
+                                                                                   InlineKeyboardButton(text="UPDATES",
+                                                                       url="https://t.me/cyber_demon")
                                                                                  ]]))
 
     else:
